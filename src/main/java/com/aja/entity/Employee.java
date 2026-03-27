@@ -19,5 +19,6 @@ public class Employee {
 	private String lastName;
 	private String email;
 	private long departmentId;
+	private boolean delete=false;
 
 }
